@@ -1,6 +1,7 @@
 #include <iostream>
+using namespace std;
 
 int main() {
-    std::cout << "Hello Git in C++" << std::endl;
+    cout << "Hello Git in C++" << endl;
     return 0;
 }
