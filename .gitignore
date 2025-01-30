@@ -1,3 +1,4 @@
 *.out
 *.exe
 code-01
+.DS_Store
